@@ -1,7 +1,7 @@
 {
-    "name": "nodejs-project",
+    "name": "todolistcliapplication",
     "version": "1.0.0",
-    "description": "A simple Node.js project",
+    "description": "A Todo list CLI application in NodeJs",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
